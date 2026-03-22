@@ -1,0 +1,9 @@
+# Python
+.venv/
+__pycache__/
+
+# Misc
+dataset.txt
+
+# MacOS
+.DS_Store
