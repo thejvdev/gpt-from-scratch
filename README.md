@@ -1,3 +1,9 @@
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)](https://jupyter.org)
+[![MLX](https://img.shields.io/badge/MLX-000000)](https://mlx-framework.org)
+[![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-365C8B)](https://matplotlib.org)
+
 # Implementing a Decoder-Only GPT Model
 
 This repository contains a custom implementation of a **decoder-only GPT** model trained on the Tiny Shakespeare dataset, using the **MLX** library.
