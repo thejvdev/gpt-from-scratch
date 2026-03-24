@@ -43,4 +43,4 @@ The model is a **decoder-only GPT** based on the Transformer decoder from [Atten
 
 ## Author
 
-Created by [Denys Bondarchuk](https://github.com/thejvdev). Feel free to reach out or contribute to the project!
+Created by [Denys Bondarchuk](https://github.com/thejvdev). Feel free to reach out or contribute to the project.
